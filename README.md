@@ -1,4 +1,4 @@
-# flower recognition
+# Flower Image Classification
 The problem is to develop a robust model capable of capable of accurately classifying flower images into specific categories, including chamomile, tulip, rose, sunflower, and dandelion.     
 By leveraging a dataset of 4317 images, the goal is to train a deep learning model to learn distinctive patterns and features inherent to each flower category. The model should be able to generalize its knowledge and accurately classify new, unseen flower images based on the learned representations.            
 This model can be used in various ways, for instance, this model can help online flower marketplaces and e-commerce platforms to categorize flower images to enhance user experience, improve search functionality, and provide accurate recommendations to customers based on their preferences. This flower recognition system can also be used In industries like floristry to automate the the process of sorting and categorizing flowers based on their types to streamline inventory management.
